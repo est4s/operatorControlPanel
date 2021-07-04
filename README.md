@@ -28,6 +28,7 @@ Calculated values by the application for the entered workpiece:
        
 The length and thickness of the workpiece is entered in “length and thickness” tab. Thickness value is used to calculate the rack angle and cutting force. Length is used to calculate the stroke according to rack angle and thickness.
 Rack angle is set by the application. As the cutting force formula is,
+
  ![image](https://user-images.githubusercontent.com/53571773/124386144-a93c8480-dce1-11eb-945c-0d3218fb1f57.png)
  
 when the thickness is known, the unknowns are the cutting force and the rack angle. Because unnecessary rack angle causes deflection on the cut face, the rack angle should be as low as possible. Therefore, the application is optimized for that. 
