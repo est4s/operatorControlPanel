@@ -2,7 +2,9 @@
 Operator Panel Representation of Hydrulic Guillotine Shearing Machine in Matlab
  
  ![1-main](https://user-images.githubusercontent.com/53571773/124385887-64fcb480-dce0-11eb-9a74-a0d5287b6faf.JPG)
+ 
         MATLAB App Designer Application
+        
 A Matlab App Designer application is developed for the control system calculations. 
 The values entered by the operator:
 1.	Material
