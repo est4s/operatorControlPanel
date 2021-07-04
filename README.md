@@ -3,7 +3,6 @@ Operator Panel Representation of Hydrulic Guillotine Shearing Machine in Matlab
  
  ![1-main](https://user-images.githubusercontent.com/53571773/124385887-64fcb480-dce0-11eb-9a74-a0d5287b6faf.JPG)
  
-        MATLAB App Designer Application
         
 A Matlab App Designer application is developed for the control system calculations. 
 The values entered by the operator:
@@ -26,6 +25,7 @@ Calculated values by the application for the entered workpiece:
      The material selection tab is given above. The materials are added to use different clearance allowance constants. As the materials are chosen, the ultimate tensile strength and clearance allowance constant values are taken by program accordingly.
      
  ![3-length and thickness](https://user-images.githubusercontent.com/53571773/124385913-8198ec80-dce0-11eb-8559-60f3105016a1.JPG)
+ 
         MATLAB App Designer Application: Length and Thickness Section
 The length and thickness of the workpiece is entered in “length and thickness” tab. Thickness value is used to calculate the rack angle and cutting force. Length is used to calculate the stroke according to rack angle and thickness.
 Rack angle is set by the application. As the cutting force formula is,
