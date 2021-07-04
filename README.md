@@ -21,7 +21,7 @@ Calculated values by the application for the entered workpiece:
 
 
 ![2-material](https://user-images.githubusercontent.com/53571773/124385897-70e87680-dce0-11eb-9c41-aae013021920.JPG)
-
+       MATLAB App Designer Application: Proportional Valve Section
      The material selection tab is given above. The materials are added to use different clearance allowance constants. As the materials are chosen, the ultimate tensile strength and clearance allowance constant values are taken by program accordingly.
      
  ![3-length and thickness](https://user-images.githubusercontent.com/53571773/124385913-8198ec80-dce0-11eb-8559-60f3105016a1.JPG)
@@ -54,5 +54,5 @@ The angle for the eccentric shaft is calculated by solving it for θ the followi
 b= 140 mm
  
 ![6-proportional valve](https://user-images.githubusercontent.com/53571773/124386025-ef451880-dce0-11eb-8d68-6a44fb5466d9.JPG)
-        MATLAB App Designer Application: Proportional Valve Section
+ 
 Proportional valve tab is to illustrate the proportional valves behavior against position data read from the sensors. For example, if the right hydraulic cylinder moves faster and accordingly the difference is positive, then its proportional valve slows the current until they are in the correct height with the other cylinder.
